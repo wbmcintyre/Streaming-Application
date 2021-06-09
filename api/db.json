@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Ben's Stream",
+      "description": "This is a test stream",
+      "userId": "104841842799721788034",
+      "id": 1
+    },
+    {
+      "title": "Test stream",
+      "description": "This stream can be deleted",
+      "userId": "104841842799721788034",
+      "id": 2
+    }
+  ]
+}
